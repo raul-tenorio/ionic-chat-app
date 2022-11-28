@@ -1,2 +1,4 @@
-# ionic-chat-app
-Aplicacion web para chat realizada en IONIC
+# Integrantes:
+- Raúl Tenorio
+- Leonel Molina
+- Ariel Calderón
